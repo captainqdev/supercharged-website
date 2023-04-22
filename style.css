@@ -1,0 +1,111 @@
+/* Reset default styles */
+body,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set base font size and family */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Set page width and center content */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    /* Set header styles */
+    header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    }
+    
+    header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    }
+    
+    nav ul li {
+    display: inline;
+    }
+    
+    nav ul li a {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    }
+    
+    /* Set hero section styles */
+    .hero {
+    text-align: center;
+    padding: 100px 0;
+    }
+    
+    .hero h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    }
+    
+    .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    }
+    
+    /* Set gallery section styles */
+    .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+    }
+    
+    .gallery-grid img {
+    width: 100%;
+    height: auto;
+    }
+    
+    /* Set contact section styles */
+    form label,
+    form textarea,
+    form input[type="text"],
+    form input[type="email"],
+    form input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    }
+    
+    form textarea {
+    height: 100px;
+    }
+    
+    form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    }
+    
+    /* Set footer styles */
+    footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    }

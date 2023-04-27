@@ -13,7 +13,7 @@ Security is top priority? Well explain these images that elfbar had send then:<b
 
 <img src="https://uc3b952527eb06c8155a95dffb98.previews.dropboxusercontent.com/p/thumb/AB6FfBBzRyzhO4etnbeYy_0QjzIgtgpC_55L8bYTU5Kcqgyj21V_o9pnSh9agzNYWmyqnaMeKaE1Rp7a_HA9fiz7zKrJzmwBaARHLKNGltmay0ZbFj6KOnhHOQM1JXGqyFcSbWnNWSn9GK1-c9iPnqo43JjKiNbevPQgIkaNbAZ6FKCOuW30r8jybHLz5B0kblYMejbzcr8J_QMuKwntCguEcglu1FFbKWTgcCgtxiEyVKrEtutfcalUKwW323Yaqsy1hxCHc0uBtgRH8YoqDyeCR42PNkWyy1FijaE4uK5v6m6FoxgvVMp8Vxh7F44-4b35N5_gpiksFDKdS_lCwrE3B7tR7p-auGo0V4_vliZMhrtIK1RduzcShdf63JqXf2s/p.jpeg" width="200" height="300">
 
-That's not all. We have a dropbox full of images that contain proof of what you and Alexander have been doing.<br>
+That's not all. We have a dropbox full of images that contain proof of what you (elfbar) and Alexander have been doing.<br>
 Anyways, stop accusing people without good proof and get you're fax right first Alexander.
 <br>
 P.S stop constantly saying you worked at ToonTown Rewritten without proof, you are just a troll elfbar/TewTow. (And yes elfbar you were dumb enough to have your full name on your gofundme, but for privacy we wont share you full name here)
